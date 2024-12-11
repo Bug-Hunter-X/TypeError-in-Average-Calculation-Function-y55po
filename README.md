@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: TypeError when calculating the average of a list that contains a mix of numbers and strings.  The bug.py file shows the problematic code and bugSolution.py provides a solution using error handling.
